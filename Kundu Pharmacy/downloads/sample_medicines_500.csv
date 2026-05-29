@@ -1,0 +1,331 @@
+medicine_name,company,strength,form,price,description,stock
+Aspirin,Bayer,500mg,Tablet,15,Analgesic and antipyretic,500
+Ibuprofen,Cipla,200mg,Tablet,20,Anti-inflammatory and pain reliever,450
+Paracetamol,Crocin,500mg,Tablet,12,Pain reliever and fever reducer,600
+Amoxicillin,Novartis,250mg,Capsule,45,Beta-lactam antibiotic,300
+Azithromycin,Ranbaxy,500mg,Tablet,85,Macrolide antibiotic,200
+Ciprofloxacin,Dr Reddy's,500mg,Tablet,55,Fluoroquinolone antibiotic,250
+Doxycycline,Aurobindo,100mg,Capsule,35,Tetracycline antibiotic,280
+Metformin,Intas,500mg,Tablet,25,Antidiabetic agent,550
+Insulin Glargine,Novo Nordisk,100 IU/mL,Injection,450,Long-acting insulin,100
+Amlodipine,Torrent,5mg,Tablet,30,Calcium channel blocker,400
+Lisinopril,Lupin,10mg,Tablet,38,ACE inhibitor,350
+Atenolol,Cipla,50mg,Tablet,22,Beta blocker,420
+Omeprazole,Glenmark,20mg,Capsule,28,Proton pump inhibitor,480
+Ranitidine,Bio Pharma,150mg,Tablet,18,H2 receptor antagonist,510
+Metoclopramide,Alkem,10mg,Tablet,15,Antiemetic,380
+Ondansetron,Cipla,4mg,Tablet,35,5-HT3 antagonist,200
+Acyclovir,Macleods,400mg,Tablet,95,Antiviral agent,150
+Loratadine,Sun Pharma,10mg,Tablet,22,Antihistamine,490
+Cetirizine,Cadila,10mg,Tablet,18,H1 receptor antagonist,520
+Diphenhydramine,Abbott,25mg,Tablet,25,First-generation antihistamine,400
+Clotrimazole,Concept,1%,Cream,45,Antifungal,280
+Terbinafine,Sun Pharma,250mg,Tablet,180,Antifungal for nails,120
+Fluconazole,Cipla,200mg,Tablet,220,Azole antifungal,110
+Amitriptyline,Intas,25mg,Tablet,35,Tricyclic antidepressant,350
+Sertraline,Lupin,50mg,Tablet,95,SSRI antidepressant,200
+Paroxetine,Dr Reddy's,20mg,Tablet,105,SSRI antidepressant,190
+Alprazolam,Wyeth,0.5mg,Tablet,85,Benzodiazepine anxiolytic,180
+Diazepam,Roche,5mg,Tablet,45,Benzodiazepine anxiolytic,250
+Lorazepam,Wyeth,1mg,Tablet,65,Benzodiazepine anxiolytic,220
+Lithium Carbonate,Generic,300mg,Tablet,75,Mood stabilizer,200
+Carbamazepine,Novartis,200mg,Tablet,55,Anticonvulsant,280
+Phenytoin,Pfizer,100mg,Tablet,40,Anticonvulsant,320
+Valproic Acid,Cipla,200mg,Tablet,65,Anticonvulsant,260
+Levetiracetam,UCB,500mg,Tablet,320,Anticonvulsant,100
+Tramadol,Cipla,100mg,Tablet,45,Opioid analgesic,200
+Morphine,Abbott,10mg,Tablet,180,Opioid analgesic,80
+Codeine,Pfizer,30mg,Tablet,35,Opioid analgesic,250
+Aspirin + Caffeine,Cipla,500+65mg,Tablet,18,Combination analgesic,420
+Ibuprofen + Paracetamol,Calpol,200+500mg,Tablet,22,Combination analgesic,400
+Metoclopramide + Tramadol,Combiflam,10+50mg,Tablet,25,Combination pain relief,380
+Acetaminophen,Crocin,650mg,Tablet,14,Analgesic and antipyretic,580
+Mefenamic Acid,Ponstan,250mg,Tablet,28,NSAID analgesic,350
+Meloxicam,Mobicox,15mg,Tablet,42,NSAID anti-inflammatory,300
+Indomethacin,Merck,25mg,Capsule,35,NSAID anti-inflammatory,290
+Naproxen,Cipla,250mg,Tablet,38,NSAID anti-inflammatory,310
+Ketoprofen,Ranbaxy,100mg,Tablet,48,NSAID anti-inflammatory,270
+Piroxicam,Forte,20mg,Tablet,55,NSAID anti-inflammatory,200
+Tenoxicam,Generic,20mg,Tablet,65,NSAID anti-inflammatory,180
+Diclofenac,Voltaren,50mg,Tablet,22,NSAID anti-inflammatory,450
+Diclofenac,Voltaren,50mg,Injection,25,NSAID anti-inflammatory IM,300
+Isoniazid,Lupin,300mg,Tablet,18,Antitubercular agent,400
+Rifampicin,Dr Reddy's,450mg,Capsule,85,Antitubercular agent,200
+Pyrazinamide,Cipla,500mg,Tablet,35,Antitubercular agent,280
+Ethambutol,Sun Pharma,400mg,Tablet,45,Antitubercular agent,250
+Trimethoprim-Sulfa,Septra,80-400mg,Tablet,28,Antibiotic combination,350
+Tetracycline,Generic,250mg,Capsule,28,Tetracycline antibiotic,330
+Chlortetracycline,Cipla,250mg,Capsule,32,Tetracycline antibiotic,310
+Minocycline,Ranbaxy,100mg,Capsule,95,Tetracycline antibiotic,170
+Cephalexin,Cipla,500mg,Capsule,65,First-generation cephalosporin,220
+Cefixime,Suprax,200mg,Tablet,85,Third-generation cephalosporin,200
+Ceftriaxone,Cipla,250mg,Injection,105,Third-generation cephalosporin,150
+Ampicillin,Cipla,250mg,Capsule,25,Beta-lactam antibiotic,380
+Penicillin G,Pfizer,1000000 IU,Injection,45,Natural penicillin,280
+Erythromycin,Abbott,500mg,Tablet,60,Macrolide antibiotic,200
+Clarithromycin,Sun Pharma,250mg,Tablet,105,Macrolide antibiotic,160
+Roxithromycin,Cipla,300mg,Tablet,85,Macrolide antibiotic,190
+Norfloxacin,Cipla,400mg,Tablet,35,Fluoroquinolone antibiotic,320
+Ofloxacin,Ranbaxy,400mg,Tablet,42,Fluoroquinolone antibiotic,300
+Levofloxacin,Cipla,500mg,Tablet,95,Fluoroquinolone antibiotic,170
+Moxifloxacin,Avelox,400mg,Tablet,145,Fluoroquinolone antibiotic,120
+Gatifloxacin,Cipla,400mg,Tablet,78,Fluoroquinolone antibiotic,200
+Gentamicin,Cipla,80mg,Injection,35,Aminoglycoside antibiotic,250
+Neomycin,Generic,500mg,Tablet,45,Aminoglycoside antibiotic,200
+Streptomycin,Generic,1gm,Injection,55,Aminoglycoside antibiotic,180
+Amikacin,Cipla,250mg,Injection,85,Aminoglycoside antibiotic,150
+Tobramycin,Generic,80mg,Injection,125,Aminoglycoside antibiotic,100
+Vancomycin,Generic,500mg,Injection,850,Glycopeptide antibiotic,40
+Clindamycin,Cipla,300mg,Capsule,105,Lincosamide antibiotic,150
+Linezolid,Cipla,600mg,Tablet,485,Oxazolidinone antibiotic,60
+Metronidazole,Cipla,400mg,Tablet,22,Nitroimidazole antibiotic,420
+Tinidazole,Cipla,300mg,Tablet,32,Nitroimidazole antibiotic,350
+Nitrofurantoin,Cipla,100mg,Capsule,65,Nitrofuran antibiotic,210
+Fosfomycin,Generic,3gm,Sachet,185,Phosphonic acid antibiotic,100
+Colistin,Generic,1000000 IU,Injection,125,Polypeptide antibiotic,110
+Polymyxin B,Generic,500000 IU,Injection,135,Polypeptide antibiotic,105
+Daptomycin,Merck,500mg,Injection,1850,Lipopeptide antibiotic,30
+Caspofungin,Merck,50mg,Injection,2500,Antifungal echinocandin,20
+Insulin Aspart,Novo Nordisk,100 IU/mL,Injection,380,Rapid-acting insulin,110
+Insulin Lispro,Humalog,100 IU/mL,Injection,420,Rapid-acting insulin,100
+Insulin Neutral,Eli Lilly,100 IU/mL,Injection,120,Regular insulin,200
+Gliclazide,Cipla,80mg,Tablet,28,Sulfonylurea agent,400
+Glibenclamide,Ranbaxy,5mg,Tablet,32,Sulfonylurea agent,380
+Glipizide,Cipla,5mg,Tablet,35,Sulfonylurea agent,370
+Tolbutamide,Generic,500mg,Tablet,38,Sulfonylurea agent,350
+Pioglitazone,Cipla,15mg,Tablet,85,Thiazolidinedione,200
+Rosiglitazone,GSK,4mg,Tablet,95,Thiazolidinedione,180
+Sitagliptin,Merck,50mg,Tablet,185,DPP-4 inhibitor,140
+Saxagliptin,AstraZeneca,5mg,Tablet,180,DPP-4 inhibitor,145
+Vildagliptin,Cipla,50mg,Tablet,135,DPP-4 inhibitor,160
+Exenatide,Eli Lilly,250 mcg,Injection,4500,GLP-1 agonist,15
+Liraglutide,Novo Nordisk,18 mg/3 mL,Injection,3200,GLP-1 agonist,25
+Empagliflozin,Boehringer Ingelheim,10mg,Tablet,250,SGLT2 inhibitor,110
+Dapagliflozin,Bristol Myers Squibb,10mg,Tablet,280,SGLT2 inhibitor,100
+Canagliflozin,Janssen,300mg,Tablet,290,SGLT2 inhibitor,105
+Acarbose,Cipla,50mg,Tablet,45,Alpha-glucosidase inhibitor,250
+Voglibose,Cipla,0.3mg,Tablet,42,Alpha-glucosidase inhibitor,260
+Miglitol,Generic,25mg,Tablet,48,Alpha-glucosidase inhibitor,240
+Repaglinide,Cipla,1mg,Tablet,65,Meglitinide agent,200
+Nateglinide,Generic,120mg,Tablet,58,Meglitinide agent,210
+Linagliptin,Boehringer Ingelheim,5mg,Tablet,195,DPP-4 inhibitor,130
+Alogliptin,Takeda,25mg,Tablet,180,DPP-4 inhibitor,150
+Teneligliptin,Cipla,20mg,Tablet,125,DPP-4 inhibitor,170
+Atorvastatin,Cipla,10mg,Tablet,32,Statin cholesterol reducer,420
+Lovastatin,Merck,20mg,Tablet,65,Statin cholesterol reducer,200
+Pravastatin,Bristol Myers Squibb,40mg,Tablet,78,Statin cholesterol reducer,190
+Simvastatin,Merck,20mg,Tablet,35,Statin cholesterol reducer,400
+Rosuvastatin,Cipla,10mg,Tablet,88,Statin cholesterol reducer,180
+Pitavastatin,Cipla,2mg,Tablet,125,Statin cholesterol reducer,150
+Fluvastatin,Novartis,40mg,Capsule,95,Statin cholesterol reducer,170
+Fenofibrate,Cipla,145mg,Tablet,95,Fibrate triglyceride lowerer,160
+Gemfibrozil,Pfizer,600mg,Tablet,105,Fibrate triglyceride lowerer,150
+Bezafibrate,Generic,200mg,Tablet,88,Fibrate triglyceride lowerer,170
+Ciprofibrate,Generic,100mg,Tablet,92,Fibrate triglyceride lowerer,165
+Nicotinic Acid,Generic,500mg,Tablet,15,Niacin cholesterol raiser,500
+Ezetimibe,Cipla,10mg,Tablet,125,Cholesterol absorption inhibitor,140
+Bempedoic Acid,Cipla,120mg,Tablet,180,Urate-lowering agent,100
+PCSK9 Inhibitor,Amgen,420mg,Injection,8500,Lipid-lowering agent,10
+Triglyceryl Copaivate,Generic,100mg,Tablet,35,Cholesterol agent,300
+Colestipol,Generic,5gm,Tablet,75,Bile acid sequestrant,180
+Cholestyramine,Generic,4gm,Sachet,85,Bile acid sequestrant,150
+Colesevelam,Generic,625mg,Tablet,95,Bile acid sequestrant,140
+Probucol,Generic,250mg,Tablet,58,Cholesterol-lowering agent,210
+Clopidogrel,Cipla,75mg,Tablet,185,Antiplatelet agent,130
+Ticlopidine,Generic,250mg,Tablet,95,Antiplatelet agent,170
+Aspirin + Clopidogrel,Generic,75+100mg,Tablet,65,Dual antiplatelet therapy,220
+Dipyridamole,Generic,25mg,Tablet,45,Antiplatelet agent,280
+Cilostazol,Generic,100mg,Tablet,125,Antiplatelet vasodilator,150
+Ticagrelor,AstraZeneca,60mg,Tablet,450,Antiplatelet agent,70
+Prasugrel,Eli Lilly,5mg,Tablet,320,Antiplatelet agent,90
+Warfarin,Cipla,5mg,Tablet,32,Anticoagulant rodenticide,400
+Heparin,Cipla,5000 IU/mL,Injection,85,Anticoagulant heparin,180
+Enoxaparin,Cipla,40mg,Injection,220,LMWH anticoagulant,130
+Dalteparin,Pfizer,5000 IU,Injection,285,LMWH anticoagulant,105
+Tinzaparin,Leo Pharma,4500 IU,Injection,220,LMWH anticoagulant,125
+Dabigatran,Boehringer Ingelheim,110mg,Capsule,850,Direct thrombin inhibitor,50
+Rivaroxaban,Bayer,10mg,Tablet,880,Factor Xa inhibitor,45
+Apixaban,Bristol Myers Squibb,5mg,Tablet,750,Factor Xa inhibitor,55
+Edoxaban,Bristol Myers Squibb,60mg,Tablet,920,Factor Xa inhibitor,48
+Antithrombin III,Grifols,500 IU,Injection,2500,Coagulation factor,15
+Protein C Concentrate,Grifols,600 IU,Injection,3500,Coagulation factor,10
+Thrombin,Generic,5000 IU,Injection,1200,Coagulation factor,25
+Factor II Concentrate,Generic,500 IU,Injection,1800,Coagulation factor,18
+Factor V Concentrate,Generic,250 IU,Injection,2200,Coagulation factor,12
+Factor VII Concentrate,Generic,500 IU,Injection,4500,Coagulation factor,8
+Factor VIII Concentrate,Generic,250 IU,Injection,5500,Coagulation factor,6
+Factor IX Concentrate,Generic,500 IU,Injection,3800,Coagulation factor,10
+Factor X Concentrate,Generic,200 IU,Injection,2500,Coagulation factor,15
+Factor XI Concentrate,Generic,250 IU,Injection,3200,Coagulation factor,12
+Factor XIII Concentrate,Generic,250 IU,Injection,2800,Coagulation factor,14
+Von Willebrand Factor,Generic,500 IU,Injection,4200,Coagulation factor,9
+Fibrinogen Concentrate,Generic,1000 mg,Injection,3500,Blood clotting factor,11
+Prothrombin Complex,Generic,500 IU,Injection,1500,Coagulation factor,28
+Fresh Frozen Plasma,Generic,1 unit,Injection,2000,Blood product,5
+Cryoprecipitate,Generic,1 unit,Injection,1500,Blood product,8
+Whole Blood,Generic,450 mL,Injection,3500,Blood product,3
+Packed Red Cells,Generic,450 mL,Injection,3000,Blood product,5
+Platelets,Generic,1 unit,Injection,4500,Blood product,2
+White Blood Cells,Generic,1 unit,Injection,5500,Blood product,1
+Albumin,Generic,20%,Injection,850,Blood protein,50
+Immunoglobulin,Generic,0.5 gm/kg,Injection,12000,Immune globulin,5
+Vitamin A,Generic,5000 IU,Capsule,8,Fat-soluble vitamin,800
+Vitamin D,Cipla,1000 IU,Tablet,12,Fat-soluble vitamin,700
+Vitamin E,Generic,400 IU,Capsule,15,Fat-soluble vitamin,600
+Vitamin K,Generic,10mg,Tablet,85,Fat-soluble vitamin,180
+Vitamin B1,Generic,10mg,Tablet,18,Water-soluble vitamin,500
+Vitamin B2,Generic,10mg,Tablet,15,Water-soluble vitamin,520
+Vitamin B3,Generic,50mg,Tablet,12,Water-soluble vitamin,580
+Vitamin B5,Generic,5mg,Tablet,22,Water-soluble vitamin,450
+Vitamin B6,Generic,50mg,Tablet,25,Water-soluble vitamin,420
+Vitamin B12,Generic,1000 mcg,Tablet,35,Water-soluble vitamin,350
+Biotin,Generic,5mg,Tablet,45,Water-soluble vitamin,280
+Folic Acid,Generic,5mg,Tablet,18,Water-soluble vitamin,500
+Vitamin C,Cipla,500mg,Tablet,20,Water-soluble vitamin,480
+Multivitamin,Cipla,1 tablet,Tablet,32,Multiple vitamins,400
+Calcium Carbonate,Generic,500mg,Tablet,15,Mineral supplement,550
+Calcium Citrate,Generic,500mg,Tablet,35,Mineral supplement,350
+Iron Fumarate,Generic,325mg,Tablet,28,Iron mineral,420
+Iron Sucrose,Generic,100mg,Injection,250,Iron mineral IV,110
+Ferrous Sulfate,Cipla,300mg,Tablet,22,Iron mineral,460
+Ferric Carboxymaltose,Injectafer,750mg,Injection,1850,Iron mineral IV,35
+Zinc Sulfate,Generic,220mg,Tablet,18,Mineral supplement,500
+Magnesium Oxide,Generic,400mg,Tablet,12,Mineral supplement,600
+Copper Sulfate,Generic,2mg,Tablet,28,Mineral supplement,400
+Selenium,Generic,200 mcg,Tablet,35,Mineral supplement,350
+Chromium,Generic,200 mcg,Tablet,32,Mineral supplement,370
+Iodine Potassium,Generic,150 mcg,Tablet,8,Mineral supplement,750
+Phosphorus,Generic,500mg,Tablet,25,Mineral supplement,450
+Manganese,Generic,5mg,Tablet,42,Mineral supplement,300
+Molybdenum,Generic,75 mcg,Tablet,48,Mineral supplement,280
+Boron,Generic,3mg,Tablet,22,Mineral supplement,480
+Sulfur,Generic,100mg,Tablet,18,Mineral supplement,510
+Potassium Chloride,Generic,20 mEq,Tablet,45,Electrolyte,200
+Sodium Chloride,Generic,1gm,Tablet,12,Electrolyte,600
+Calcium Phosphate,Generic,1gm,Tablet,28,Mineral supplement,400
+Phosphatidylcholine,Generic,420mg,Capsule,95,Phospholipid,180
+Lecithin,Generic,1200mg,Capsule,85,Phospholipid,190
+Choline,Generic,250mg,Tablet,65,Nutrient,220
+Inositol,Generic,500mg,Capsule,45,Nutrient,300
+PABA,Generic,100mg,Tablet,32,Nutrient,380
+Carnitine,Generic,500mg,Capsule,125,Amino acid,150
+L-Arginine,Generic,500mg,Capsule,85,Amino acid,200
+L-Glutamine,Generic,500mg,Capsule,95,Amino acid,180
+L-Lysine,Generic,500mg,Capsule,72,Amino acid,210
+L-Proline,Generic,500mg,Capsule,78,Amino acid,200
+L-Glycine,Generic,500mg,Capsule,68,Amino acid,220
+L-Ornithine,Generic,500mg,Capsule,92,Amino acid,190
+Taurine,Generic,500mg,Capsule,95,Amino acid,185
+Alanine,Generic,500mg,Capsule,75,Amino acid,210
+Valine,Generic,500mg,Capsule,88,Amino acid,200
+Leucine,Generic,500mg,Capsule,90,Amino acid,195
+Isoleucine,Generic,500mg,Capsule,89,Amino acid,198
+Threonine,Generic,500mg,Capsule,85,Amino acid,205
+Methionine,Generic,500mg,Capsule,92,Amino acid,190
+Phenylalanine,Generic,500mg,Capsule,95,Amino acid,185
+Tryptophan,Generic,500mg,Capsule,98,Amino acid,180
+Histidine,Generic,500mg,Capsule,88,Amino acid,205
+CoQ10,Generic,100mg,Capsule,185,Ubiquinone,120
+Alpha Lipoic Acid,Generic,300mg,Capsule,125,Antioxidant,150
+Ginseng,Generic,500mg,Capsule,65,Herbal supplement,240
+Ginkgo Biloba,Generic,120mg,Capsule,85,Herbal supplement,200
+St John's Wort,Generic,300mg,Capsule,48,Herbal supplement,300
+Echinacea,Generic,400mg,Capsule,45,Herbal supplement,310
+Milk Thistle,Generic,150mg,Capsule,58,Herbal supplement,280
+Turmeric,Generic,500mg,Capsule,32,Herbal supplement,400
+Garlic Extract,Generic,1000mg,Capsule,35,Herbal supplement,380
+Saw Palmetto,Generic,160mg,Capsule,95,Herbal supplement,180
+Red Clover,Generic,500mg,Capsule,42,Herbal supplement,300
+Black Cohosh,Generic,40mg,Capsule,72,Herbal supplement,220
+Evening Primrose,Generic,500mg,Capsule,65,Herbal supplement,250
+Borage Oil,Generic,1000mg,Capsule,88,Herbal supplement,200
+Fish Oil,Generic,1000mg,Capsule,45,Herbal supplement,320
+Krill Oil,Generic,500mg,Capsule,125,Herbal supplement,150
+Flaxseed Oil,Generic,1000mg,Capsule,48,Herbal supplement,300
+Probiotics,Generic,1 billion CFU,Capsule,85,Bacterial culture,200
+Prebiotics,Generic,500mg,Capsule,62,Dietary fiber,250
+Glucosamine,Generic,500mg,Capsule,95,Cartilage supplement,180
+Chondroitin,Generic,400mg,Capsule,105,Cartilage supplement,170
+Hyaluronic Acid,Generic,50mg,Capsule,125,Joint supplement,150
+Methylsulfonylmethane,Generic,1000mg,Capsule,75,Sulfur compound,220
+Boswellia,Generic,500mg,Capsule,85,Herbal supplement,200
+Collagen,Generic,10gm,Sachet,95,Protein supplement,180
+Creatine,Generic,5000mg,Powder,125,Muscle supplement,150
+Whey Protein,Generic,25gm,Powder,185,Protein powder,130
+Casein,Generic,25gm,Powder,165,Protein powder,140
+Soy Protein,Generic,25gm,Powder,145,Protein powder,160
+Rice Protein,Generic,25gm,Powder,135,Protein powder,170
+Pea Protein,Generic,25gm,Powder,155,Protein powder,150
+Egg White Protein,Generic,25gm,Powder,175,Protein powder,135
+Hemp Protein,Generic,25gm,Powder,165,Protein powder,140
+Spirulina,Generic,500mg,Powder,48,Algae supplement,290
+Chlorella,Generic,500mg,Powder,52,Algae supplement,270
+Barley Grass,Generic,500mg,Powder,38,Grass supplement,320
+Wheat Grass,Generic,500mg,Powder,42,Grass supplement,300
+Sea Vegetables,Generic,500mg,Capsule,65,Seaweed supplement,240
+Cilantro Extract,Generic,500mg,Capsule,75,Herb extract,220
+Milk Thistle,Generic,500mg,Capsule,65,Liver support,240
+Melatonin,Generic,5mg,Tablet,45,Sleep aid,280
+Valerian Root,Generic,500mg,Capsule,58,Sleep aid,250
+Passionflower,Generic,500mg,Capsule,52,Sleep aid,270
+Chamomile,Generic,500mg,Capsule,42,Sleep aid,300
+Lavender,Generic,500mg,Capsule,48,Sleep aid,290
+Hops,Generic,500mg,Capsule,55,Sleep aid,260
+Lemon Balm,Generic,500mg,Capsule,50,Sleep aid,280
+Skullcap,Generic,500mg,Capsule,62,Herbal supplement,240
+Ashwagandha,Generic,500mg,Capsule,65,Adaptogen,240
+Rhodiola,Generic,300mg,Capsule,85,Adaptogen,200
+Holy Basil,Generic,500mg,Capsule,55,Adaptogen,260
+Korean Ginseng,Generic,500mg,Capsule,95,Adaptogen,180
+Siberian Ginseng,Generic,500mg,Capsule,75,Adaptogen,220
+Maca Root,Generic,500mg,Capsule,68,Energy supplement,230
+Cordyceps,Generic,500mg,Capsule,125,Mushroom supplement,150
+Reishi,Generic,500mg,Capsule,95,Mushroom supplement,180
+Shiitake,Generic,500mg,Capsule,85,Mushroom supplement,200
+Maitake,Generic,500mg,Capsule,92,Mushroom supplement,190
+Lion's Mane,Generic,500mg,Capsule,118,Mushroom supplement,160
+Chaga,Generic,500mg,Capsule,105,Mushroom supplement,170
+Turkey Tail,Generic,500mg,Capsule,98,Mushroom supplement,175
+Poria,Generic,500mg,Capsule,85,Mushroom supplement,200
+Oyster Mushroom,Generic,500mg,Capsule,78,Mushroom supplement,210
+Tremella,Generic,500mg,Capsule,88,Mushroom supplement,195
+Ganoderma,Generic,500mg,Capsule,112,Mushroom supplement,165
+Moringa,Generic,500mg,Capsule,45,Leaves supplement,310
+Neem,Generic,500mg,Capsule,38,Leaves supplement,350
+Tulsi,Generic,500mg,Capsule,42,Leaves supplement,330
+Brahmi,Generic,500mg,Capsule,55,Ayurvedic herb,260
+Shankhpushpi,Generic,500mg,Capsule,48,Ayurvedic herb,300
+Brahmi Ghee,Generic,100ml,Oil,85,Ayurvedic oil,200
+Brahmi Tail,Generic,100ml,Oil,78,Ayurvedic oil,210
+Neem Oil,Generic,100ml,Oil,45,Ayurvedic oil,310
+Coconut Oil,Generic,100ml,Oil,28,Base oil,450
+Sesame Oil,Generic,100ml,Oil,35,Base oil,400
+Almond Oil,Generic,100ml,Oil,48,Carrier oil,300
+Mustard Oil,Generic,100ml,Oil,32,Base oil,420
+Olive Oil,Generic,100ml,Oil,125,Extra virgin oil,150
+Jojoba Oil,Generic,100ml,Oil,95,Carrier oil,180
+Argan Oil,Generic,100ml,Oil,185,Premium oil,120
+Rosehip Oil,Generic,100ml,Oil,125,Carrier oil,155
+Lavender Oil,Generic,10ml,Essential Oil,95,Aromatherapy,180
+Tea Tree Oil,Generic,10ml,Essential Oil,85,Aromatherapy,200
+Eucalyptus Oil,Generic,10ml,Essential Oil,75,Aromatherapy,220
+Peppermint Oil,Generic,10ml,Essential Oil,88,Aromatherapy,195
+Lemon Oil,Generic,10ml,Essential Oil,72,Aromatherapy,230
+Orange Oil,Generic,10ml,Essential Oil,68,Aromatherapy,240
+Rose Oil,Generic,10ml,Essential Oil,125,Aromatherapy,150
+Jasmine Oil,Generic,10ml,Essential Oil,135,Aromatherapy,145
+Frankincense Oil,Generic,10ml,Essential Oil,105,Aromatherapy,170
+Myrrh Oil,Generic,10ml,Essential Oil,115,Aromatherapy,160
+Ylang Ylang Oil,Generic,10ml,Essential Oil,98,Aromatherapy,175
+Bergamot Oil,Generic,10ml,Essential Oil,82,Aromatherapy,210
+Chamomile Oil,Generic,10ml,Essential Oil,105,Aromatherapy,170
+Thyme Oil,Generic,10ml,Essential Oil,78,Aromatherapy,215
+Oregano Oil,Generic,10ml,Essential Oil,92,Aromatherapy,185
+Clove Oil,Generic,10ml,Essential Oil,85,Aromatherapy,200
+Cinnamon Oil,Generic,10ml,Essential Oil,88,Aromatherapy,195
+Ginger Oil,Generic,10ml,Essential Oil,92,Aromatherapy,185
+Turmeric Oil,Generic,10ml,Essential Oil,95,Aromatherapy,180
+Black Pepper Oil,Generic,10ml,Essential Oil,75,Aromatherapy,220
+Caraway Oil,Generic,10ml,Essential Oil,82,Aromatherapy,210
+Dill Oil,Generic,10ml,Essential Oil,78,Aromatherapy,215
+Cumin Oil,Generic,10ml,Essential Oil,85,Aromatherapy,200
